@@ -25,3 +25,10 @@ int main() {
 
      return 0;
 }
+
+// Output
+// Student Number: 2230311
+// Sum of all digits: 12
+// Odd or Even: Odd
+// Remainder when divided by 7: 6
+// Student number multiplied by 3: 6690933
