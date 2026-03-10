@@ -11,7 +11,3 @@ int main() {
      return 0;
 }
 
-// Out put
-// Name: Tsheirng Wangpo Dorji
-// Student No: 02230311
-// Course: BSc Computer Science
